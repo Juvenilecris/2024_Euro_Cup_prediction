@@ -55,5 +55,5 @@
     并选择了召回率较高的模型作为我们的预测模型，用于预测从小组赛到淘汰赛阶段的获胜者，最终预测德国队获得 2024 年欧洲杯冠军。
 ## 结果
 ### 小组赛预测结果
-![alt 属性文本]('https://github.com/Juvenilecris/2024_Euro_Cup_prediction/blob/main/imgs/%E5%B0%8F%E7%BB%84%E8%B5%9B.png')
+![image](https://github.com/Juvenilecris/2024_Euro_Cup_prediction/blob/main/imgs/%E5%B0%8F%E7%BB%84%E8%B5%9B.png)
 ### 淘汰赛预测结果
