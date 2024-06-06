@@ -57,4 +57,4 @@
 ### 小组赛预测结果
 ![image](https://github.com/Juvenilecris/2024_Euro_Cup_prediction/blob/main/imgs/%E5%B0%8F%E7%BB%84%E8%B5%9B.png)
 ### 淘汰赛预测结果
-![image](https://github.com/Juvenilecris/2024_Euro_Cup_prediction/blob/main/imgs/%E5%B0%8F%E7%BB%84%E8%B5%9B.png)
+![image](https://github.com/Juvenilecris/2024_Euro_Cup_prediction/blob/main/imgs/%E6%B7%98%E6%B1%B0%E8%B5%9B.png)
