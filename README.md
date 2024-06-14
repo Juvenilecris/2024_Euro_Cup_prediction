@@ -32,7 +32,7 @@
     home_team- 主队名称
     away_team- 客队名称
     winner- 点球大战获胜者
-### 国际足联世界排名1992-2022
+### 国际足联世界排名1992-2024
 
     country_full— 国家全名
     country_abrv— 国家缩写
